@@ -9,7 +9,7 @@ function CustomAlert() {
             dialogoverlay.style.display = "block";
             dialogoverlay.style.height = winH + "px";
             dialogbox.style.left = "30px";
-            dialogbox.style.top = "120px";
+            dialogbox.style.top = "121px";
             dialogbox.style.display = "block";
             dialogbox.style.width = winW / 2 + "px";
             document.getElementById("dialogboxhead").innerHTML =

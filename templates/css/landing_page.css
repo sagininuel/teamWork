@@ -239,6 +239,7 @@ body {
 }
 
 #showcase .button {
+    position: relative;
     font-size: 18px;
     text-decoration: none;
     color: #fff;
